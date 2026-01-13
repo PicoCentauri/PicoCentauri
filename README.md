@@ -5,5 +5,3 @@
 
 I'm a researcher in soft matter physics working on electrostatics ✨ 
 in aqueous systems 🌊  using machine learning and molecular simulations 💻
-
-[![PicoCentauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=PicoCentauri&show_icons=true&theme=dark)](https://github.com/PicoCentauri)
